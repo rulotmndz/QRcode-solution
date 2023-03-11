@@ -1,0 +1,33 @@
+body {
+    background-color: hsl(212, 45%, 89%);
+    font-family: 'Outfit', sans-serif;
+}
+
+h2 {
+    font-size: 1.2rem;
+    margin: 15px 20px;
+    font-weight: 700;
+}
+
+p {
+    color: hsl(220, 15%, 55%);
+    font-size: 0.8rem;
+    font-weight: 400;
+    margin: 15px 20px;
+}
+.main-design {
+    background-color: hsl(0, 0%, 100%);
+    border-radius: 5%;
+    width: 265px;
+    height: 415px;
+    margin: 130px auto;
+    text-align: center;
+
+}
+
+.qr-code {
+    border-radius: 5%;
+    width: 241px;
+    height: 241px;
+    margin: 12px 12px 0px;
+}
